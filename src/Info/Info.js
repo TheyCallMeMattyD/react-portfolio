@@ -27,9 +27,10 @@ export const info = {
     selfPortrait: self, // don't change this unless you want to name your self portrait in the "img" folder something else!
     gradient: `linear-gradient(135deg, ${colors})`, // don't change this either
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
-        ["☕️", "Fueled by coffee"], // change the emojis to something related to your list item :)
+        ["⚓️", "Active Duty US Navy - Retiring Soon!"],
         ["🇺🇸", "Based in the US"],
-        ["💼", "Active Duty US Navy - Retiring Soon!"],
+        ["💪🏼", "Gym Junkie"],
+        ["☕️", "Fueled by coffee"],
         ["✉️", "matty@mattyd.info"],
     ],
     socials: [
@@ -71,18 +72,14 @@ export const info = {
 // leave these alone unless you know how to work with FontAwesome and want to change to your liking :)
 
 function facebookIcon() {
-    return <i className="fa fa-facebook" aria-hidden="true"/>
+    return <i className="fa fa-facebook" aria-hidden="true" />
 };
 
 function instagramIcon() {
-    return <i className="fa fa-instagram" aria-hidden="true"/>
+    return <i className="fa fa-instagram" aria-hidden="true" />
 };
 
 function linkedInIcon() {
-    return <i className="fa fa-linkedin" aria-hidden="true"/>
-};
-
-function mediumIcon() {
-    return <i className="fa fa-medium" aria-hidden="true"/>
+    return <i className="fa fa-linkedin" aria-hidden="true" />
 };
 
