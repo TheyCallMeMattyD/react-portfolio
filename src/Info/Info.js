@@ -86,7 +86,3 @@ function mediumIcon() {
     return <i className="fa fa-medium" aria-hidden="true"/>
 };
 
-function twitterIcon() {
-    return <i className="fa fa-twitter" aria-hidden="true"/>
-};
-
