@@ -42,7 +42,7 @@ export default function Home() {
             <img src={info.selfPortrait} alt="self"  className={Style.mainImg}/>
             </div>
             <div className={Style.mainText}>
-                <h1>Hi, I'm <span style={firstNameStyle}>{info.firstName}</span> 👋🏻</h1>
+                <h1>Hello! I'm <span style={firstNameStyle}>{info.firstName}</span> 👋🏻</h1>
                 <h2>I'm a {info.position}.</h2>
                 <ul>
                     {createList()}
