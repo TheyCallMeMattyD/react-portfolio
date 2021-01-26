@@ -29,7 +29,7 @@ export const info = {
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         ["⚓️", "Active Duty US Navy - Retiring Soon!"],
         ["🇺🇸", "Based in the US"],
-        ["💪🏼", "Gym Junkie"],
+        ["💪🏼", "SoundBody / SoundMind"],
         ["☕️", "Fueled by coffee"],
         ["✉️", "matty@mattyd.info"],
     ],
