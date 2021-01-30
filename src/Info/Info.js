@@ -58,9 +58,9 @@ export const info = {
             sourceLink: "https://github.com/TheyCallMeMattyD/user-directory",
         },
         {
-            title: "Project 3",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            title: "GWU Project - JScript Holiday WishList",
+            liveLink: "https://project-two-gwu.herokuapp.com/login.html",
+            sourceLink: "https://github.com/TheyCallMeMattyD/project_two",
         },
         {
             title: "Project 4",
