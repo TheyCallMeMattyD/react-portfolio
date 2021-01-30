@@ -22,7 +22,7 @@ of what each of the values mean.
 export const info = {
     firstName: "Matt",
     lastName: "Daniels",
-    initials: "md", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "MD", // the example uses first and last, but feel free to use three or more if you like.
     position: "Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self portrait in the "img" folder something else!
     gradient: `linear-gradient(135deg, ${colors})`, // don't change this either
@@ -34,9 +34,10 @@ export const info = {
         ["✉️", "matty@mattyd.info"],
     ],
     socials: [
-        ["https://facebook.com/", facebookIcon()], // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
-        ["https://instagram.com/", instagramIcon()], // Just change the links so that they lead to your social profiles.
-        ["https://linkedin.com", linkedInIcon()],
+        ["https://www.facebook.com/rancho.matty.d/", facebookIcon()], // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
+        ["https://www.instagram.com/the.matty.d/", instagramIcon()], // Just change the links so that they lead to your social profiles.
+        ["https://www.linkedin.com/in/themattyd/", linkedInIcon()],
+        ["https://github.com/TheyCallMeMattyD", gitHubIcon()]
     ],
     bio: "Hello! I'm Matt. After college I joined the Navy - which led to adventures around the world as both an Air Traffic Controller and Aviator... with some experiences thrown in that I never would have imagined. Now that it's time to leave military life behind, I've decided to dive into Full Stack Web Development - maybe even as a digital nomad around the world. It's time for the next New Adventure!",
     hobbies: [
@@ -81,5 +82,9 @@ function instagramIcon() {
 
 function linkedInIcon() {
     return <i className="fa fa-linkedin" aria-hidden="true" />
+};
+
+function gitHubIcon() {
+    return <i className="fa fa-github" aria-hidden="true" />
 };
 
