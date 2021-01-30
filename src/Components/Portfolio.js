@@ -1,7 +1,7 @@
 import React from 'react';
 import Style from './Portfolio.module.scss';
 import mock1 from '../img/run4.png';
-import mock2 from '../img/mock2.png';
+import mock2 from '../img/directory.png';
 import mock3 from '../img/mock3.png';
 import mock4 from '../img/mock4.png';
 import {info, colors} from '../Info/Info';

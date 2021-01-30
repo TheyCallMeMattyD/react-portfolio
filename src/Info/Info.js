@@ -53,9 +53,9 @@ export const info = {
             sourceLink: "https://github.com/TheyCallMeMattyD/project3", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
         },
         {
-            title: "Project 2",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            title: "GWU React Assignment - Employee Directory",
+            liveLink: "https://theycallmemattyd.github.io/user-directory/",
+            sourceLink: "https://github.com/TheyCallMeMattyD/user-directory",
         },
         {
             title: "Project 3",
