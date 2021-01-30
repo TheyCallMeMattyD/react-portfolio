@@ -48,9 +48,9 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            liveLink: "paytonjewell.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            sourceLink: "paytonjewell.dev", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
+            title: "GWU React Final Project",
+            liveLink: "https://run4app.herokuapp.com/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            sourceLink: "https://github.com/TheyCallMeMattyD/project3", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
         },
         {
             title: "Project 2",
