@@ -31,5 +31,6 @@ const Main = () => (
         <Route exact path='/' component={Home}></Route>
         <Route exact path='/about' component={About}></Route>
         <Route exact path='/portfolio' component={Portfolio}></Route>
+        <Route exact path='/resume' component={Portfolio}></Route>
     </Switch>
 );
