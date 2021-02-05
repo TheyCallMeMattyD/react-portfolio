@@ -63,9 +63,9 @@ export const info = {
             sourceLink: "https://github.com/TheyCallMeMattyD/project_two",
         },
         {
-            title: "Project 4",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            title: "GWU Assignment - Workout Tracker: An exercise in MongoDB",
+            liveLink: "https://workoutmatty.herokuapp.com/stats",
+            sourceLink: "https://github.com/TheyCallMeMattyD/workout-tracker",
         },
     ]
 }
