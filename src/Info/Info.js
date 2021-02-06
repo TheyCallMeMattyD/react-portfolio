@@ -72,7 +72,7 @@ export const info = {
         {
             title: "Resume",
             //liveLink: "https://www.cnn.com",
-            // sourceLink: <href="/docs/resume.docx">,
+            sourceLink: "http://mattyd.info/docs/resume.docx">
         },
     ]
 }
