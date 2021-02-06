@@ -72,9 +72,9 @@ export const info = {
         {
             title: "Resume",
             //liveLink: "https://www.cnn.com",
-            sourceLink: "http://mattyd.info/docs/resume.docx">
-        },
-    ]
+            sourceLink: "http://mattyd.info/docs/resume.docx"
+        }
+    ],
 }
 
 // leave these alone unless you know how to work with FontAwesome and want to change to your liking :)
