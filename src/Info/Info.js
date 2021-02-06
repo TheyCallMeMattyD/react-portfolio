@@ -31,7 +31,7 @@ export const info = {
         ["🇺🇸", "Based in the US"],
         ["🕵🏼‍♂️", "TS/SCI Clearance"],
         ["✈️", "Aviator"],
-        ["✉️", "matty@mattyd.info"],
+        ["✉️", "matt@mattyd.info"],
     ],
     socials: [
         ["https://www.facebook.com/rancho.matty.d/", facebookIcon()], // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
@@ -66,6 +66,18 @@ export const info = {
             title: "GWU Assignment - Workout Tracker: An exercise in MongoDB",
             liveLink: "https://workoutmatty.herokuapp.com/stats",
             sourceLink: "https://github.com/TheyCallMeMattyD/workout-tracker",
+        },
+    ],
+    resume: [
+        {
+            title: "GWU React Final Project",
+            liveLink: "https://run4app.herokuapp.com/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            sourceLink: "https://github.com/TheyCallMeMattyD/project3", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
+        },
+        {
+            title: "Resume",
+            liveLink: "https://www.cnn.com",
+            sourceLink: "https://www.cnn.com",
         },
     ]
 }
