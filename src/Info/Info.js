@@ -70,14 +70,9 @@ export const info = {
     ],
     resume: [
         {
-            title: "GWU React Final Project",
-            liveLink: "https://run4app.herokuapp.com/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            sourceLink: "https://github.com/TheyCallMeMattyD/project3", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
-        },
-        {
             title: "Resume",
-            liveLink: "https://www.cnn.com",
-            sourceLink: "https://www.cnn.com",
+            //liveLink: "https://www.cnn.com",
+            // sourceLink: <href="/docs/resume.docx">,
         },
     ]
 }
